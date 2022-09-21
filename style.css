@@ -151,3 +151,25 @@ body{
 .arrow .buy:hover{
     background-color: black;
 }
+.brand-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.brand-head{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 10px;
+}
+.brand{
+    background-color: rgb(240, 232, 232);
+    margin-top: 100px;
+    padding-bottom: 50px;
+}    
+
+.brand-card img{
+    border-radius: 100%;
+    background-color: #fff;
+    
+}
